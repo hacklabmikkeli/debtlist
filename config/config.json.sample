@@ -1,0 +1,9 @@
+{
+    "port":"",
+    "mongoUri": "",
+    "DS_Token": "",
+    "api_key": "",
+    "mongoUser": "",
+    "mongoPwd": "",
+    "printerUri": ""
+}
